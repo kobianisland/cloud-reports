@@ -22,7 +22,7 @@
   "license": "MIT",
  "dependencies": {
     "aws-sdk": "^2.1565.0",
-    "axios": "^1.6.7",
+    "axios": "^1.6.8",
     "cfn-response-promise": "^1.1.0",
     "urldecode": "^1.0.1"
   }
